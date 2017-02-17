@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieDBFinalProject</string>
+
+    <string-array name="generos">
+        <item>Sin especificar</item>
+        <item>Drama</item>
+        <item>Terror</item>
+        <item>Misterio</item>
+        <item>Aventura</item>
+        <item>Comedia</item>
+    </string-array>
+
+</resources>

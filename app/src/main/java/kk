@@ -1,0 +1,7 @@
+ android:scrollbarStyle="insideOverlay"
+        android:scrollbars="vertical"
+
+         //moviesRV.setHasFixedSize(true);
+                //GridLayoutManager mLayoutManager = new GridLayoutManager(this, 2);
+                //mLayoutManager.setOrientation(mLayoutManager.HORIZONTAL);
+                //moviesRV.setLayoutManager(mLayoutManager);
